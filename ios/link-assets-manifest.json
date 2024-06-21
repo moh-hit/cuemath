@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Athletics Bold.otf",
+      "sha1": "4692e29f51260cf0cb389f905ff84b251ecefc47"
+    },
+    {
+      "path": "assets/fonts/Athletics Medium.otf",
+      "sha1": "64a5914301b4ab5ed7c799c384f5c1382781adef"
+    },
+    {
+      "path": "assets/fonts/Athletics Regular.otf",
+      "sha1": "189bd4e90c79093a9b6e6be65deadb365a2aee17"
+    }
+  ]
+}
